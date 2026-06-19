@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-find_port.py — list serial ports and flag the likely KW330.
+find_port.py: list serial ports and flag the likely KW330.
 
     pip install pyserial
     python3 find_port.py

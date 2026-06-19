@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-structure.py — turn a KW330 "Print Data Stream" capture into time-series JSON.
+structure.py: turn a KW330 "Print Data Stream" capture into time-series JSON.
 
     python3 structure.py kw330_capture_20260619.bin           # -> *.json next to it
     python3 structure.py capture.bin --out trip.json

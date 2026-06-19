@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-capture.py — read the KW330 (and CDC/CH340-based KONNWEI tools) serial stream.
+capture.py: read the KW330 (and CDC/CH340-based KONNWEI tools) serial stream.
 
 Cross-platform (macOS / Linux / Windows). Auto-detects the device by USB VID/PID,
 opens the port, and writes every received byte to a .bin while echoing a live
