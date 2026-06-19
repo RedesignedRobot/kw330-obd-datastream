@@ -1,0 +1,24 @@
+# One frame of a KW330 'Print Data Stream' capture (raw ASCII, VIN redacted).
+# Real stream uses CRLF line endings and lots of space padding; trimmed here for readability.
+
+Datastream*****************************
+ VIN: <REDACTED-17-CHAR-VIN>
+ Protocol Type: ISO15765-4 CAN(11bit)
+ Language: English
+  Fuel system 1 status   CL
+  Fuel system 2 status   ---
+  Calculated LOAD Value   35.3%
+  Engine Coolant Temperature   85 °C
+  Short Term Fuel Trim - Bank 1   3.1%
+  Long Term Fuel Trim - Bank 1   3.9%
+  Intake Manifold Absolute Pressure   81.0kPa
+  Engine RPM   674/min
+  Vehicle Speed   2km/h
+  Ignition Timing Advance for #1 Cylinder   -2.5 °   375 °C
+  Control module voltage   13.82V
+  Absolute Load Value   34.1%
+  Fuel/Air Commanded Equivalence Ratio   0.999
+  Relative Throttle Position   4.3%
+  Ambient air temperature   30 °C
+  Absolute Throttle Position B   14.5%stem 1 status   CL
+  Fuel system 2 status

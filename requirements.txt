@@ -1,0 +1,2 @@
+# capture.py and find_port.py need pyserial. structure.py has no dependencies.
+pyserial>=3.5

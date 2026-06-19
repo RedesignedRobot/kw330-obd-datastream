@@ -1,0 +1,15 @@
+# captures (may contain your VIN — never commit)
+*.bin
+*.hex
+kw330_capture_*
+!samples/*
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# os
+.DS_Store
+Thumbs.db
